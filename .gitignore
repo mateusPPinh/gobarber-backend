@@ -1,4 +1,5 @@
 node_modules
 dist
 
-./src/tokenConfig
+src/tokenConfig
+ormconfig.json
