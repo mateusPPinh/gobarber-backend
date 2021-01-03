@@ -1,5 +1,11 @@
 node_modules
 dist
 
-src/tokenConfig
-ormconfig.json
+.ormconfig.json
+
+.idea/
+.vscode/
+
+.env
+
+.src/tokenConfig
